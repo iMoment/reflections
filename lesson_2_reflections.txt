@@ -26,6 +26,8 @@ allowing you to keep your master file as the original main, while allowing for
 support in editing other useful versions.
 
 How do the diagrams help you visualize the branch structure?
+It allows the user to see branch paths, parents, and which commits will not
+show up in git log.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
