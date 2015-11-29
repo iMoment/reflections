@@ -20,6 +20,10 @@ change, you can commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you are making a game, and want to change the difficulty.  When you want
+to develop your program to support multiple languages.  Branches help in
+allowing you to keep your master file as the original main, while allowing for
+support in editing other useful versions.
 
 How do the diagrams help you visualize the branch structure?
 
