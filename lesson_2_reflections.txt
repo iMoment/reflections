@@ -31,6 +31,10 @@ show up in git log.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+If two branches are to be merged, one is merged "into" the other one.  The main
+branch will take over as the head tip of that merge.  We represent it the way
+we do because the new merge branch will point to its two previous parent branch
+commits.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
