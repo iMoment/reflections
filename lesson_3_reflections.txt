@@ -41,4 +41,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you are experimenting with ideas that are not "production-safe", or
+    when you want others to give you feedback before merging.  Separate
+    branches allow for peer review, directly making changes to master is less
+    time consuming.
